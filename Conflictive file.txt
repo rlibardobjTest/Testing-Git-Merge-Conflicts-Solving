@@ -1,1 +1,2 @@
 Adding a line to make a conflict.
+This line will indeed provoque a conflict.
